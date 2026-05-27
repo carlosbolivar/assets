@@ -1,0 +1,35 @@
+<svg width="832" height="385" viewBox="0 0 832 385" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_fn_14_3694)">
+<g id="Repeat group 5_inner" data-figma-trr="r11u1.2-0f">
+</g>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(49.2633 -229.819) rotate(32.7273)"/>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(214.956 -396.521) rotate(65.4545)"/>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(444.471 -447.179) rotate(98.1818)"/>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(664.939 -365.711) rotate(130.909)"/>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(806.364 -177.981) rotate(163.636)"/>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(823.843 56.4074) rotate(-163.636)"/>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(711.828 263.038) rotate(-130.909)"/>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(505.882 376.306) rotate(-98.1818)"/>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(271.392 360.251) rotate(-65.4546)"/>
+<use xlink:href="#Repeat%20group%205_inner" transform="translate(82.8064 219.969) rotate(-32.7273)"/>
+</g>
+<defs>
+<filter id="filter0_fn_14_3694" x="-57.4" y="-504.399" width="946.753" height="946.754" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="28.7" result="effect1_foregroundBlur_14_3694"/>
+<feTurbulence type="fractalNoise" baseFrequency="2 2" stitchTiles="stitch" numOctaves="3" result="noise" seed="9234" />
+<feColorMatrix in="noise" type="luminanceToAlpha" result="alphaNoise" />
+<feComponentTransfer in="alphaNoise" result="coloredNoise1">
+<feFuncA type="discrete" tableValues="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "/>
+</feComponentTransfer>
+<feComposite operator="in" in2="effect1_foregroundBlur_14_3694" in="coloredNoise1" result="noise1Clipped" />
+<feFlood flood-color="rgba(0, 0, 0, 0.25)" result="color1Flood" />
+<feComposite operator="in" in2="noise1Clipped" in="color1Flood" result="color1" />
+<feMerge result="effect2_noise_14_3694">
+<feMergeNode in="effect1_foregroundBlur_14_3694" />
+<feMergeNode in="color1" />
+</feMerge>
+</filter>
+</defs>
+</svg>

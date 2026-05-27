@@ -1,0 +1,59 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 1893.26 1982.59" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Repeat group 2" opacity="0.7" filter="url(#filter0_f_0_31)">
+<g id="Repeat group 2_inner" data-figma-trr="r39u1.3-0f">
+<path id="Vector 68" d="M712.05 916.332L1181.21 118.849" stroke="url(#paint0_linear_0_31)" stroke-width="311"/>
+</g>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(178.437 -138.435) rotate(9.23077)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(376.771 -246.454) rotate(18.4615)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(589.863 -321.259) rotate(27.6923)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(812.195 -360.914) rotate(36.9231)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1038.01 -364.39) rotate(46.1538)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1261.46 -331.597) rotate(55.3846)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1476.75 -263.386) rotate(64.6154)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1678.32 -161.523) rotate(73.8462)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1860.93 -28.6458) rotate(83.0769)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2019.86 131.804) rotate(92.3077)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2151 315.671) rotate(101.538)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2250.95 518.193) rotate(110.769)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2317.11 734.125) rotate(120)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2347.78 957.873) rotate(129.231)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2342.16 1183.64) rotate(138.462)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2300.4 1405.59) rotate(147.692)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2223.57 1617.96) rotate(156.923)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2113.68 1815.26) rotate(166.154)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1973.55 1992.38) rotate(175.385)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1806.83 2144.72) rotate(-175.385)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1617.84 2268.35) rotate(-166.154)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1411.45 2360.06) rotate(-156.923)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1193.03 2417.48) rotate(-147.692)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(968.231 2439.11) rotate(-138.462)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(742.869 2424.4) rotate(-129.231)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(522.785 2373.74) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(313.678 2288.43) rotate(-110.769)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(120.964 2170.67) rotate(-101.538)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-50.3653 2023.53) rotate(-92.3077)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-195.873 1850.81) rotate(-83.0769)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-311.791 1656.99) rotate(-73.8462)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-395.116 1447.08) rotate(-64.6154)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-443.69 1226.53) rotate(-55.3846)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-456.256 1001.04) rotate(-46.1538)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-432.488 776.45) rotate(-36.9231)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-373.001 558.584) rotate(-27.6923)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-279.336 353.082) rotate(-18.4615)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-153.92 165.266) rotate(-9.23077)"/>
+</g>
+<defs>
+<filter id="filter0_f_0_31" x="-40" y="0" width="1973.26" height="2022.59" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_0_31"/>
+</filter>
+<linearGradient id="paint0_linear_0_31" x1="722.338" y1="900.825" x2="1170.29" y2="126.311" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4F46E5" stop-opacity="0"/>
+<stop offset="0.254808" stop-color="#0026FF"/>
+<stop offset="0.524038" stop-color="#FF4C3C" stop-opacity="0.5"/>
+<stop offset="0.634615" stop-color="#FF4433"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

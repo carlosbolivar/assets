@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 64.89 91.35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 139">
+<rect id="Rectangle 2" y="4.88281e-05" width="64.89" height="91.35" rx="3.5621" fill="var(--fill-0, white)"/>
+<path id="Vector 13" d="M10.9266 55.0296L15.9577 48.8065C17.3413 47.0951 19.5175 46.2298 21.6984 46.5237L23.2053 46.7268C24.6535 46.922 26.1244 46.6077 27.3663 45.8378L28.8849 44.8963C31.1493 43.4925 34.0681 43.7491 36.0528 45.5264C38.2925 47.532 41.6704 47.5716 43.9564 45.6191L48.8483 41.4411C49.7195 40.697 50.3712 39.7295 50.7335 38.6426L54.4829 27.3938" stroke="var(--stroke-0, #009753)" stroke-width="1.26" stroke-linecap="round"/>
+<path id="Vector 14" d="M6.93281 23.8483V59.909H57.6003" stroke="var(--stroke-0, black)" stroke-opacity="0.2" stroke-width="0.315"/>
+<g id="Frame 82">
+<line id="Line 8" x1="7.11563" y1="8.31572" x2="57.7832" y2="8.31572" stroke="var(--stroke-0, black)" stroke-opacity="0.6" stroke-width="0.890526"/>
+<line id="Line 9" x1="7.11563" y1="12.7684" x2="57.7832" y2="12.7684" stroke="var(--stroke-0, black)" stroke-opacity="0.6" stroke-width="0.890526"/>
+<line id="Line 12" x1="7.11563" y1="17.221" x2="37.3935" y2="17.221" stroke="var(--stroke-0, black)" stroke-opacity="0.6" stroke-width="0.890526"/>
+<line id="Line 13" opacity="0" x1="7.11563" y1="21.6736" x2="18.6925" y2="21.6736" stroke="var(--stroke-0, black)" stroke-opacity="0.6" stroke-width="0.890526"/>
+<line id="Line 17" opacity="0" x1="7.11563" y1="26.1262" x2="18.6925" y2="26.1262" stroke="var(--stroke-0, white)" stroke-opacity="0.2" stroke-width="0.890526"/>
+</g>
+</g>
+</svg>

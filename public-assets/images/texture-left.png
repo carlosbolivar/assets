@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 1926.34 811.538" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Repeat group 3">
+<g id="Repeat group 3_inner" data-figma-trr="l6u0.3-0f">
+<path id="Vector 69" d="M604.068 723.574L166.469 87.9632" stroke="url(#paint0_linear_0_33)" stroke-width="310.237"/>
+</g>
+<use xlink:href="#Repeat%20group%203_inner" transform="translate(231.161)"/>
+<use xlink:href="#Repeat%20group%203_inner" transform="translate(462.322)"/>
+<use xlink:href="#Repeat%20group%203_inner" transform="translate(693.484)"/>
+<use xlink:href="#Repeat%20group%203_inner" transform="translate(924.645)"/>
+<use xlink:href="#Repeat%20group%203_inner" transform="translate(1155.81)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_33" x1="971.714" y1="1117.55" x2="196.531" y2="675.167" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4F46E5" stop-opacity="0"/>
+<stop offset="0.254808" stop-color="#4F46E5"/>
+<stop offset="0.524038" stop-color="#FF4C3C" stop-opacity="0.5"/>
+<stop offset="0.634615" stop-color="#3347FF"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

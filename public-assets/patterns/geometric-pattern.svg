@@ -1,0 +1,50 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 6829.36 6829.36" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Repeat group 2" filter="url(#filter0_fn_4_2382)">
+<g id="Repeat group 2_inner" data-figma-trr="r18u1.2-0f">
+<path id="Vector 68" d="M1948.51 2154.98L4880.85 1310.14" stroke="url(#paint0_linear_4_2382)" stroke-width="200"/>
+</g>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(1373.82 -961.959) rotate(20)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2993.8 -1396.03) rotate(40)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(4664.54 -1249.86) rotate(60)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(6184.53 -541.076) rotate(80)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(7370.43 644.829) rotate(100)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(8079.22 2164.82) rotate(120)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(8225.39 3835.56) rotate(140)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(7791.32 5455.54) rotate(160)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(6829.36 6829.36) rotate(180)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(5455.54 7791.32) rotate(-160)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(3835.56 8225.39) rotate(-140)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(2164.82 8079.22) rotate(-120)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(644.829 7370.43) rotate(-100)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-541.076 6184.53) rotate(-80)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-1249.86 4664.54) rotate(-60)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-1396.03 2993.8) rotate(-40)"/>
+<use xlink:href="#Repeat%20group%202_inner" transform="translate(-961.959 1373.82) rotate(-20)"/>
+</g>
+<defs>
+<filter id="filter0_fn_4_2382" x="-57.4" y="-57.4" width="6944.16" height="6944.16" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="28.7" result="effect1_foregroundBlur_4_2382"/>
+<feTurbulence type="fractalNoise" baseFrequency="2 2" stitchTiles="stitch" numOctaves="3" result="noise" seed="9234" />
+<feColorMatrix in="noise" type="luminanceToAlpha" result="alphaNoise" />
+<feComponentTransfer in="alphaNoise" result="coloredNoise1">
+<feFuncA type="discrete" tableValues="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "/>
+</feComponentTransfer>
+<feComposite operator="in" in2="effect1_foregroundBlur_4_2382" in="coloredNoise1" result="noise1Clipped" />
+<feFlood flood-color="rgba(0, 0, 0, 0.25)" result="color1Flood" />
+<feComposite operator="in" in2="noise1Clipped" in="color1Flood" result="color1" />
+<feMerge result="effect2_noise_4_2382">
+<feMergeNode in="effect1_foregroundBlur_4_2382" />
+<feMergeNode in="color1" />
+</feMerge>
+</filter>
+<linearGradient id="paint0_linear_4_2382" x1="1964.8" y1="2161.61" x2="2726.7" y2="2529.22" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4F46E5" stop-opacity="0"/>
+<stop offset="0.293269" stop-color="#4F46E5"/>
+<stop offset="0.504808" stop-color="#3CFF4C" stop-opacity="0.5"/>
+<stop offset="0.6875" stop-color="#FFF200"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
